@@ -47,5 +47,6 @@ Steps Wise Project Outline:
 
 
 Introduction:
+
 Netflix is a leading global streaming service, offering a vast collection of movies, TV shows, documentaries, and original productions. With a user-friendly interface and personalized recommendations, it has redefined how people consume entertainment. It have more than 83 million subscribers and presence in more than 190 countries. Its users watch around 130 million hours of TV and movie content daily. From binge-worthy series to blockbuster films, Netflix caters to diverse tastes, making it a go-to platform for millions worldwide.
 
