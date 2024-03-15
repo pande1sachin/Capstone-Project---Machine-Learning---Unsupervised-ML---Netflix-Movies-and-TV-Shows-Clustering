@@ -27,11 +27,19 @@ Steps Wise Project Outline:
 ![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/23db6c3c-98e9-4720-b2ec-8a7eb7f16b7e)  Understanding the dataset and problem statement.
 
 ![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/261156c5-d91c-4aae-a6ae-b6b2a0f57a7f)  Efficient EDA
-Dealing with missing values and outliers
-Cleaning the document
-Exploring exceptional cases
-Pre processing- TFIDF/ bag of words
-Selecting the approach and algorithm to be used.
-Modeling- use at least 2 algorithms.
-Brief strategy for clusters formed.
-Conclusion.
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/95b1fe61-f9c7-4f99-b26a-3adf20f2524d)  Dealing with missing values and outliers
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/045d6066-2726-47ed-b4c0-be02513a98b9)  Cleaning the document
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/85839d64-fa10-4882-b4e6-e5a3e70e0e3f)  Exploring exceptional cases
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/0202c68a-3c86-4097-b450-b98e55004b40)  Pre processing- TFIDF/ bag of words
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/b1f0a3ad-d353-47e8-95cf-52b5a952cd54)  Selecting the approach and algorithm to be used.
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/eac61dfd-50d0-4ad1-bd49-c098a05068c0)  Modeling- use at least 2 algorithms.
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/27da7f21-ecb9-4267-bb7a-a528bec70bbc)  Brief strategy for clusters formed.
+
+![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/b3a163f3-7a12-4dbe-8442-17eb78d58b83)  Conclusion.
