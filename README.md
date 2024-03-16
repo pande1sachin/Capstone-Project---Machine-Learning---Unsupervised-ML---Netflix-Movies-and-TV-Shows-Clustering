@@ -27,7 +27,7 @@ NumPy for computationally efficient operations
 Project Architecture:
 ![netflix_clustering_35520ee0bc](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/0f2cfee3-5ea5-48e0-a8e0-cda95bd4e97f)
 
-Steps Wise Project Outline:
+Step Wise Project Outline:
 
 ![360_F_321705300_COZ88mgIJJxbboOEYoUDv5YEZvcUtNpv](https://github.com/pande1sachin/Capstone-Project---Machine-Learning---Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering/assets/138008976/23db6c3c-98e9-4720-b2ec-8a7eb7f16b7e)  Understanding the dataset and problem statement.
 
